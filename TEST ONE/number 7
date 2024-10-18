@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample HTML File</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div>
+        <h1>ROMEO'S RESTAURANT</h1>
+        <p>Your one stop restaurant for sumptuos food and cuisines</p>
+    </div>
+</body>
+</html>
